@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.beowulfchain.quickom.quickomconference",
+      "sha256_cert_fingerprints": [
+        "CC:29:80:8A:8E:2A:EA:53:70:60:8A:EB:5C:0B:0A:03:E6:57:95:8D:8A:E0:A4:5E:98:3B:56:3A:5E:46:F9:A2"
+      ]
+    }
+  }
+]
